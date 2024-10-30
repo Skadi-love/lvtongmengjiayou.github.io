@@ -1,0 +1,12 @@
+:开门的同时，我似乎注意到了门缝中夹着什么东西。 -fontSize=default;
+choose:捡起来看看:选择场景文件;
+:我将落下来的东西捡了起来，发现这似乎是一张便签纸。 -fontSize=default;
+:便签纸并不大，似乎风轻轻一吹就能吹走。 -fontSize=default;
+:我捡起便签纸。 -fontSize=default;
+intro:不要相信她！ -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 0, 4, 1) -animation=fadeIn -delayTime=1500 -hold;
+:……这是便签纸上的内容。 -fontSize=default;
+阿加莎:罗宾的字？ -fontSize=default;
+阿加莎:不，比起平常的罗宾，这字写得有点过于……匆忙了。 -fontSize=default;
+阿加莎:……这人究竟在搞什么鬼？被什么玩意上身了吗？ -fontSize=default;
+:心里的疑问一个接着一个。我收好便签纸，推门而入。 -fontSize=default;
+changeScene:第一章分支/捡起便签纸.txt

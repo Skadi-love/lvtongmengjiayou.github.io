@@ -1,0 +1,13 @@
+bgm:濱本麻央-Strange-passage.m4a;
+:在睡梦中……我好像听到了纸张翻动、相互摩擦的声音。 -fontSize=default;
+:……但其实吵醒我的并不是这些，而是抽屉哐当哐当拉开又合上的声音。 -fontSize=default;
+:很快，我又听到了好像是那种一大摞纸一起被拍在地上、纸片飞散一样的声音。 -fontSize=default;
+:再之后，一阵脚步声离开了我的房间，环境重新变得安静。 -fontSize=default;
+阿加莎:唔……怎么回事……嗯…… -fontSize=default;
+:本能让我强撑着睁开眼睛，摁亮手机屏幕，看了一眼电子时钟。 -fontSize=default;
+:12:00。 -fontSize=default;
+:除此之外，我注意到，除了手机屏幕里的内容，我的视野一片漆黑。我甚至无法看清自己的手。 -fontSize=default;
+:并且…… -fontSize=default;
+playEffect:Sword1.m4a;
+:……“12:00”中间的“ : ” ，没有闪烁。 -fontSize=default;
+changeScene:第二章/第一个晚上.txt

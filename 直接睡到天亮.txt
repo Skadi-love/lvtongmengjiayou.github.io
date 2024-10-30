@@ -1,0 +1,6 @@
+changeFigure: -left -next;
+changeBg: -next;
+:然后…… -fontSize=default;
+:这个夜晚，就再也没有结束。 -fontSize=default;
+intro:GAME OVER -fontSize=large -backgroundColor=rgba(255, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;
