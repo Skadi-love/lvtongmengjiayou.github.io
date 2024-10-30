@@ -1,0 +1,7 @@
+Game_name:2024-9;
+Game_key:1390edcad7edb97;
+Title_img:fengmian.png;
+Title_bgm:Arcaea_Team-Axium-Crisis.m4a -vocal= Marigold.mp3 -vocal= Marigold.mp3 -vocal= Marigold.mp3;
+Textbox_theme:imss;
+Game_Logo:genshin.jpg;
+Package_name:;
